@@ -49,7 +49,7 @@ will be submitted through Canvas.
 | 1    | M0.1 Syllabus Quiz                  | Wed          |
 | 1    | M0.2 Reading Quiz                   | Wed          |
 | 1    | M0.3 Version Control Overview       | Wed          |
-| 1    | M0.4 M0.4 Install VSCode and Git    | Fri          |
+| 1    | M0.4 Install VSCode and Git    | Fri          |
 | 1    | M0.5 Introduction and Retrospective | Fri          |
 |      |                                     |              |
 | 2    | M1.1 Reading Quiz                   | Wed          |
@@ -65,7 +65,7 @@ will be submitted through Canvas.
 | 4    | M3.3 Retrospective                  | Fri          |
 |      |                                     |              |
 | 5    | M4.1 Reading Quiz                   | Wed          |
-| 5    | M4.2 Configure Github               | Wed          |
+| 5    | M4.2 Configure GitHub               | Wed          |
 | 5    | M4.3 Create a GitHub Page           | Wed          |
 | 5    | M4.4 Submit a Patch                 | Fri          |
 | 5    | M4.5 Retrospective                  | Fri          |
